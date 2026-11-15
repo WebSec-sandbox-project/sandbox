@@ -1,2 +1,3 @@
 rewritten history
 more
+hook test 1
