@@ -2,3 +2,4 @@ rewritten history
 more
 hook test 1
 hook test 2
+clean change
