@@ -1,0 +1,8 @@
+{
+  "name": "shop-tools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Small helpers for the shop database (orders, users, products).",
+  "scripts": { "test": "node --test" }
+}
